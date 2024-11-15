@@ -21,4 +21,5 @@ The program will collect the data under the folder 'results'.
 For the data format please check that it is a CSV file with the following structure:
 
 Time (ms);CH1 (V)
+
 float;float
